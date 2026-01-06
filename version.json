@@ -1,7 +1,15 @@
 {
-  "versionCode": 9,
-  "versionName": "1.0.8",
+  "versionCode": 10,
+  "versionName": "1.0.9",
   "apkUrl": "https://github.com/himal36/app-updates/releases/download/v1.0.1/app-debug.apk",
-  "releaseNotes": "🚀 New update available! ✨",
+  "releaseNotes": "🚀 New update available! ✨
+  whats new?
+  🎯 KEY IMPROVEMENTS
+✅ Real-time collaboration
+✅ Offline capability
+✅ Faster data entry
+✅ Better mobile experience
+✅ Enhanced security
+✅ Organized admin panel",
   "mandatory": true
 }
